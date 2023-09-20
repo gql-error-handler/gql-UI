@@ -1,9 +1,9 @@
 import React from 'react';
 
-const resultDisplay = () => {
+const Log = () => {
   return (
     <div></div>
   )
 };
 
-export default resultDisplay;
+export default Log;
